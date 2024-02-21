@@ -1,0 +1,27 @@
+{
+  "name": "test-mysql",
+  "version": "1.0.0",
+  "description": "tester mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "mysql",
+    "node",
+    "js"
+  ],
+  "author": "Haingo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "test-mysql"
+  },
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.9.1",
+    "sequelize": "^6.37.1"
+  }
+}
